@@ -1,1 +1,1 @@
-Api que permie buscar qualquer Pokémon existente na franquia Pokémon.
+Api que permite buscar qualquer Pokémon existente na franquia Pokémon.
